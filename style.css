@@ -40,11 +40,11 @@ body{
 }
 #header1{
     text-align: center;
-    font-size: 300%;
+    font-size: 380%;
     width: calc(100vw - 10px);
-    height: 50vh;
+    height: 30vh;
     background-position: center;
-    color: #69B578;
+    color: #98f8ab;
     text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black;
 }
 #TOC{
