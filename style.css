@@ -11,7 +11,7 @@ body{
     background-color: #3A7D44;
     border-radius: 10px;
     border: solid 1px #54a360;
-    font-size: 150%;
+    font-size: 200%;
     padding: 10px;
     margin-top: 10px;
     width: 98%;
@@ -44,7 +44,7 @@ body{
     text-align: center;
     font-size: 380%;
     width: calc(100vw - 10px);
-    height: 30vh;
+    min-height: 30%;
     background-position: center;
     color: #98f8ab;
     text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black;
